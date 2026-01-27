@@ -1,5 +1,7 @@
 {
-  "name": "Trình Tạo Kịch Bản Veo3 Pro",
-  "description": "Công cụ chuyên nghiệp hỗ trợ bởi AI để tạo kịch bản phân cảnh video 8 giây và các câu lệnh (prompt) tiếng Anh tối ưu cho các mô hình video Veo3/Sora.",
-  "requestFramePermissions": []
+  "name": "PHÂN CẢNH TỨC THÌ",
+  "description": "Ứng dụng chuyên nghiệp để phân chia kịch bản và tạo visual prompt cho Veo3 với bộ lọc an toàn.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
